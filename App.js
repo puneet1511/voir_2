@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import logo from './assets/image_hkd.jpeg'; 
+import logo from './image_hkd.jpeg'; 
 
 export default function App() {
   return (
